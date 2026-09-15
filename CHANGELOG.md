@@ -10,6 +10,7 @@ Run `pixi run changelog-preview` to read the assembled notes.
 ****
 
 <!-- towncrier release notes start -->
+<!-- towncrier release notes start -->
 
 ## :rocket: [0.6.11] - 2022-03-28
 ### :new:  New Features
